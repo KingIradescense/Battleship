@@ -1,1 +1,1 @@
-Simple one-file Python project utilizing knowledge of basic Python syntax and functions, e.g. range(), .append(), function declarations, and lists.
+Simple one-file Python 2 project utilizing knowledge of basic Python 2 syntax and functions, e.g. range(), .append(), function declarations, and lists.
